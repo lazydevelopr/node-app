@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "test":"./script/test"
   },
   "dependencies": {
     "express": "3.12.0"
